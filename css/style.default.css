@@ -1965,6 +1965,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #map {
   height: 300px;
+  display: none;
 }
 #map.with-border {
   border-top: solid 1px #38a7bb;
